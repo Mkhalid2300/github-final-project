@@ -1,0 +1,8 @@
+﻿PS> git checkout main
+Already on 'main'
+
+PS> git merge bug-fix-typo
+Updating 2d084c3..c68554f
+Fast-forward
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
